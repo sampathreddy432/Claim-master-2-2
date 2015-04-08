@@ -1,0 +1,17 @@
+import Cocoa
+#######
+import Fabric
+import Crashlytics
+#######
+
+@NSApplicationMain
+class AppDelegate: NSObject, NSApplicationDelegate {
+
+    func applicationDidFinishLaunching(aNotification: NSNotification) {
+#######
+        #start#
+#######
+        
+        return true
+    }
+}
